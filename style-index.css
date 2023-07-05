@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+}
+.Title, .recipe1, .recipe2
+{
+    background-color: powderblue;
+    width: 500px;
+    margin: auto;
+    padding: 50px;
+}
+.Title
+{
+    text-align: center;
+    font-size: 80px;
+    margin: 60px auto;
+}
+.recipe1{
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 50px;
+}
+.recipe2{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 60px;
+}
